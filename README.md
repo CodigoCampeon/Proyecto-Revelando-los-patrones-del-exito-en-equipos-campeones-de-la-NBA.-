@@ -1,4 +1,3 @@
-# Proyecto-Revelando-los-patrones-del-xito-en-equipos-campeones-de-la-NBA.-
 
 <p align="center">
   <img src="Agregar un título.png" alt="Banner" />
@@ -29,10 +28,12 @@
 
 ---
 
-### 📚 Proyectos Destacados
-- **Código Campeón:** Revelando los patrones del éxito en equipos campeones de la NBA.  
-  _Análisis de datos históricos con Python y SQL Server para identificar las claves del rendimiento ganador._
+### 📚 Introducción
+- **Objetivo del análisis:** Revelando los patrones del éxito en equipos campeones de la NBA.  
+  _El propósito principal de este proyecto es identificar patrones clave en los equipos campeones de la NBA a través del análisis de datos históricos. Este enfoque busca comprender los factores determinantes que contribuyen a su éxito en los playoffs y campeonatos, proporcionando información valiosa para decisiones estratégicas futuras._
 
+- **Análisis de equipos campeones en la NBA:**
+  El estudio se centra en los equipos que han alcanzado el campeonato, explorando patrones consistentes en su desempeño. Para ello, se trabajará con un dataset detallado, aplicando filtros hasta una fecha previamente definida. Esto garantiza un análisis preciso y relevante, enfocado en las dinámicas que definen el éxito.
 ---
 
 ### 🌱 Actualmente
