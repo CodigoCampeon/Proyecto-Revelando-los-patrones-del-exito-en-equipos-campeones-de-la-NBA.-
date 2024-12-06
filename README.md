@@ -113,10 +113,6 @@ El propósito principal de este proyecto es identificar patrones clave en los eq
 ## Conclusión
 Este proyecto destaca cómo los datos pueden revelar patrones clave en los equipos campeones de la NBA, proporcionando información valiosa para decisiones estratégicas. La metodología utilizada asegura un análisis robusto y confiable, creando una base sólida para futuras investigaciones en el ámbito deportivo.
 
----
-
-### Autor
-- **[Tu Nombre]**  
 
 Proyecto 
 
