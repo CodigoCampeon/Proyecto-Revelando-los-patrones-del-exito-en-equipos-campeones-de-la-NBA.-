@@ -4,7 +4,8 @@
 </p>
 
 <h1 align="center">¡Hola! 👋 Soy El equipo Codigo Campeon</h1>
-<h3 align="center">👨‍💻 Un Equipo de 4 Analistas de Datos | 📊 Andreas - Alejo - Facundo - Mario </h3>
+<h3 align="center">👨‍💻 Un Equipo de 4 Analistas de Datos | 📊 Andreas - Alejo - Facundo - <a href="https://github.com/GitMarioRoa/" target="_blank">Mario</a> </h3>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/tu-perfil-linkedin" target="_blank">
